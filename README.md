@@ -1,4 +1,4 @@
-hack.g0v.tw
+hsinchu hackthon
 ===========
 
 Organize gdoc and hackpad documents for hackathons.
